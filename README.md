@@ -77,7 +77,7 @@ Replace default arrow symbol
 Array of objects that set how many slides will be visible at certain viewport.
 
 - size : int
-  - Viewport when you want change to happen.
+  - Viewport when you want the change to happen.
 - slides: int
   - Number of slides visible at that viewport.
 
